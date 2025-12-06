@@ -1,0 +1,31 @@
+.grid{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.win{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.reset{
+    color: white;
+    background-color: lightgreen;
+    margin: 5px;
+    height: 35px;
+    width: 150px;
+    border-radius:5px ;
+}
+.highlight{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
